@@ -1,0 +1,19 @@
+a.mainlinksINFO_BAR_MENU:link    {color: Black ; text-decoration: underline; font-family: Verdana; font-size: 8pt ;  } 
+a.mainlinksINFO_BAR_MENU:visited {color: Black ; text-decoration: underline;font-family: Verdana; font-size: 8pt ;  } 
+a.mainlinksINFO_BAR_MENU:active  {color: Black ; text-decoration: underline;font-family: Verdana; font-size: 8pt ;  } 
+a.mainlinksINFO_BAR_MENU:hover   {color: Black ; text-decoration: underline;font-family: Verdana; font-size: 8pt ;  } 
+
+span.xsp1INFO_BAR_MENU{
+margin-right:20px;}table.mainINFO_BAR_MENU {background-color: Transparent;
+text-align: left;
+color: Black;
+font: 8pt "Verdana" ;width: 100%;
+}
+
+table.mainINFO_BAR_MENU td {
+padding-left:20px;padding-bottom: 5px; padding-top: 5px ; 
+}
+
+div.spaceINFO_BAR_MENU {
+margin-top:5px;
+}

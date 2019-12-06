@@ -1,1 +1,8 @@
 By Scott Phillpott
+
+
+1.  Get some datasets relative to RedTide studies
+2.  Import them to a JSON file?
+3.  Show on a Google map
+4.  Apply analytics to the datasets
+5.  Integrate matplotlib with vscode
