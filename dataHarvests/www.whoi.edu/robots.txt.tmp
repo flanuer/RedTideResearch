@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /mywhoi/
+Noindex: /mywhoi/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Noindex: /cruiseplanning/files/
+
+Noindex: /preview.do*
+Noindex: /Preview.do*
+Noindex: /live.do*
+Noindex: /Site.do*
+Noindex: /viewArticle.do*
+Noindex: /pdfserver.do*
+Noindex: /pr.do*
