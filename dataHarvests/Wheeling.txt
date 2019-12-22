@@ -1,0 +1,55 @@
+Toxic Algal Blooms Are Worsening with Climate Change
+Researchers use remote sensing technology to carry out a global survey of large freshwater lakes.
+
+A small wave, green with algae, crashes on the beach of Lake Erie.
+Harmful algal blooms, like the 2009 bloom pictured here on Lake Erie, can affect water supplies and lead officials to close down beaches. Credit: NOAA Great Lakes Environmental Research Laboratory
+By Kate Wheeling  13 November 2019
+
+Every summer, vast blooms of harmful algae erupt in freshwater lakes across the United States. This year, blue-green mats of algae blanketed more than 1,500 square kilometers of Lake Erie’s surface by August; toxic algae forced officials to close New Jersey’s largest lake to recreational activities, and officials in North Carolina and Georgia warned dog owners to keep their pets out of the water after at least four dogs died after swimming in contaminated water.
+
+Although these harmful algal blooms are not new to freshwater lakes, they do appear to be getting worse. But researchers weren’t certain whether freshwater blooms are actually intensifying or scientists are just paying closer attention. At the first U.S. Symposium on Harmful Algae in 2000, for example, marine blooms dominated the agenda; now, nearly half of the talks at the conference relate to freshwater blooms.
+
+Summertime algal blooms are indeed worsening in large freshwater lakes around the world—and climate change may be undercutting efforts to combat the problem.A new study that looked back at 3 decades of satellite data finds that these summertime algal blooms are indeed worsening in large freshwater lakes around the world—and that climate change may be undercutting efforts to combat the problem.
+“For the last 1 or 2 decades, we’ve made a tremendous amount of progress in terms of understanding the links between climate and water quantity—things like drought and flooding and extreme rainfall,” said Anna Michalak, a researcher at the Carnegie Institution for Science and a coauthor on the new study. “But there’s been much less work related to climate and water quality.”
+
+Part of the problem, according to Michalak, is a dearth of data on water quality compared to quantity. It’s easier to tease out the relationship between climate and water quantity, given that temperature and precipitation records go back more than a century in many parts of the world. But data on water quality, where they exist at all, tend to be regional and short term.
+
+In the new study published in Nature, Michalak and her colleagues sought to fill in some of the gaps in observations with nearly 30 years of satellite data. The team looked at images of 71 large lakes across 33 countries, collected between 1984 and 2012 by the National Oceanic and Atmospheric Administration’s Landsat 5 satellite, and used an algorithm to detect peak summertime bloom intensity in each of the lakes.
+
+“In the vast majority of the lakes we looked at here, we don’t have the luxury of decades of water samples,” Michalak said, “but what we were able to do is to use historical satellite data to at least get a first glimpse of what has been going on in these lakes.”
+
+Bloom intensity increased in more than two thirds of the lakes, the study finds, a trend that held across differing regions and across lakes of varying sizes and depths.
+
+Experts cautioned that the study’s threshold for statistical significance was 0.1, which means there is a 10% chance the trend could be due to random chance. But the research helps scientists begin to confirm what they have long believed about the relationship between climate change and water quality, with important implications for resource managers going forward, said Hans Paerl, a professor of marine science at the University of North Carolina at Chapel Hill who was not involved in the study.
+
+A Legacy of Nutrient Loading
+Researchers have many theories about why harmful algal blooms are worsening in lakes and along coastlines, from rising water temperatures to extreme rainfall to an overabundance of nutrients from agricultural runoff and fertilizers. Michalak’s team wanted to see which of these factors might best explain the trend across the globe, but it turns out that no single factor was driving the problem across all the lakes.
+
+“Lo and behold, different lakes are different,” Michalak said. “There isn’t a single main problem, and therefore, there isn’t a single main solution.”
+
+That makes sense in light of what we know about the organisms driving these blooms, said Tim Davis, a professor at Bowling Green State University who was not involved in the study. “There are many different types of cyanobacteria that cause these blooms to occur,” he said. “Each one has a different life strategy; their ecology is different.”
+
+If any single environmental factor were driving blooms around the globe, “that would actually be more shocking,” Davis said.
+
+“We’ve had at least 50 or more years of excessive nutrient loading in these lakes. There is a legacy of nutrient loading in many of these lakes, and that legacy continues to haunt us.”For Paerl, the finding drives home the fact that fertilizer application is only part of the story of eutrophication in lakes. Even as the agriculture industry works to reduce its use of fertilizer, more frequent and intense precipitation events—like the hurricanes that flooded hog waste lagoons in North Carolina last year—may be carrying more soil and nutrients into lakes. “Those events, they can be real gully washers, so to speak, and put a lot of nutrients into a receiving water body quickly,” Paerl said, “and whether or not fertilizers are used may or may not be relevant.”
+And after decades of excessive nutrient loading, lakes may have a stockpile of nutrients that can support algal blooms even as we reduce inputs, Paerl said. “We’ve had at least 50 or more years of excessive nutrient loading in these lakes,” he said. “There is a legacy of nutrient loading in many of these lakes, and that legacy continues to haunt us.”
+
+“What this shows us is that we really need to dive into each of these systems and understand what are the combinations of environmental factors driving the intensification in each one,” Davis said.
+
+Michalak agrees, noting that this kind of satellite study is not a substitute for more in depth studies of these lakes on the ground but a reminder of their importance. “It’s the difference between looking at a forest from space and walking through a forest in your back yard,” she said. “You’re obviously going to have a better sense of what’s going on in your particular forest if you actually walk through it yourself.” Water quality management strategies need to be tailored to the local environment, in other words.
+
+A Competitive Edge
+There was one consistent signal that emerged, however, which could make managing these toxic blooms even more difficult: The lakes where algal bloom intensity declined tended to have little or no warming. That’s because cyanobacterial blooms don’t have as much of a competitive edge in cooler lakes.
+
+“Cyanobacteria grow quite well—better than almost everything else in those freshwater systems—the hotter it gets,” said Don Anderson, a senior scientist at the Woods Hole Oceanographic Institution who was not involved in the study. Unlike many of their competitors, cyanobacteria can dial up or down their buoyancy to move throughout the water column, heading to the lake bottom in search of nutrients or the surface in search of light, where they form thick colonies that “shade out” the competition below. The mats of cyanobacteria can even exacerbate warming by absorbing more light, creating a feedback loop.
+
+“The only way that I really see to deal with this kind of increase in temperature, if you’re trying to go at that part of the problem, is huge policy changes at the national and the global level. I mean, how else can you cool down a lake, a big lake?”“Cyanobacteria have been around for about 2 billion years or even longer. They’ve adapted to all the major climatic changes that have occurred already on Earth,” Paerl said. “They’ve seen ice ages, they’ve seen warming that’s even greater than we’re currently experiencing, so their playbook is very deep.”
+But this finding is particularly concerning for water managers because it suggests that climate change could undercut even our best efforts to improve water quality in some places. “Clearly and obviously, climate change is not helping us,” Michalak said.
+
+To slow down temperature increases in lakes, we need to target climate change itself.
+
+“The only way that I really see to deal with this kind of increase in temperature, if you’re trying to go at that part of the problem, is huge policy changes at the national and the global level. I mean, how else can you cool down a lake, a big lake?” Anderson said. “You can’t do it.”
+
+At the lake level, the study suggests that in this era of climate change, we’ll have to make increasingly aggressive cuts to nutrient inputs in lakes. As with climate change itself, the longer we put it off, the more drastic our actions will need to be to see the benefits. “The only knob we can really tweak to try to improve water quality conditions in most cases is to reduce nutrient inputs,” Paerl said. “If we would have gotten started on reducing nutrient inputs 50 years ago, we’d be seeing some benefits even with increases in temperature and climate change.”
+
+—Kate Wheeling (@katewheeling), Freelance Writer
