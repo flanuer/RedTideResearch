@@ -1,0 +1,61 @@
+{
+  "files" : [ {
+    "path" : "data/pub/data/paleo/coral/atlantic/swart1996-bour_noaa.txt",
+    "filesize" : "8405",
+    "MD5" : "3e64b89bae765486089703391b6f9a35"
+  }, {
+    "path" : "data/pub/data/paleo/coral/atlantic/swart1999-fb-45_noaa.txt",
+    "filesize" : "4048",
+    "MD5" : "f858a17616526c15985c49722a33765b"
+  }, {
+    "path" : "data/pub/data/paleo/coral/atlantic/swart1999-fb-6_noaa.txt",
+    "filesize" : "4929",
+    "MD5" : "78b6a3b62a6c8da169c06bce7505a994"
+  }, {
+    "path" : "data/pub/data/paleo/coral/atlantic/swart1999-fb-5_noaa.txt",
+    "filesize" : "5252",
+    "MD5" : "e65cfc9bb443bd3e9a560aa6b1dea62a"
+  } ],
+  "params" : {
+    "dataTypeId" : "4",
+    "dataPublisher" : "NOAA",
+    "xmlId" : "1134|1161"
+  },
+  "matches" : [ {
+    "metadataFile" : "metadata/noaa-coral-1886.json",
+    "studyName" : "Florida Bay - Stable Isotope Data",
+    "sites" : [ {
+      "siteName" : "Florida Bay",
+      "files" : [ {
+        "fileName" : "swart1996-bour_noaa.txt",
+        "description" : "Coral",
+        "URL" : "https://www1.ncdc.noaa.gov/pub/data/paleo/coral/atlantic/swart1996-bour_noaa.txt"
+      } ]
+    } ],
+    "bundle" : "Y"
+  }, {
+    "metadataFile" : "metadata/noaa-coral-1914.json",
+    "studyName" : "Florida Bay - Stable Isotope and Ba/Ca Data",
+    "sites" : [ {
+      "siteName" : "Florida Bay",
+      "files" : [ {
+        "fileName" : "FB-45 Data",
+        "description" : "Formatted Text File",
+        "URL" : "https://www1.ncdc.noaa.gov/pub/data/paleo/coral/atlantic/swart1999-fb-45_noaa.txt"
+      }, {
+        "fileName" : "FB-6 Data",
+        "description" : "Formatted Text File",
+        "URL" : "https://www1.ncdc.noaa.gov/pub/data/paleo/coral/atlantic/swart1999-fb-6_noaa.txt"
+      }, {
+        "fileName" : "FB-5 Data",
+        "description" : "Formatted Text File",
+        "URL" : "https://www1.ncdc.noaa.gov/pub/data/paleo/coral/atlantic/swart1999-fb-5_noaa.txt"
+      } ]
+    } ],
+    "bundle" : "Y"
+  } ],
+  "info" : {
+    "bundleCreateDate" : "2019-12-22T18:06:51.470Z",
+    "details" : "See the included README.txt for details of the sections in this manifest."
+  }
+}
